@@ -17,17 +17,18 @@ SCOPE OF THE PROJECT:
 
 The scope of this project is to create a basic and easy-to-use food ordering system using simple Python. The system allows users to:
 
-	View a menu containing food items, prices, and ingredients.
 
-	Select items they want to order.
+* View a menu containing food items, prices, and ingredients.
 
-	Add multiple items to the order.
+* Select items they want to order.
 
-	Check the total bill, which is calculated automatically by the program.
+* Add multiple items to the order.
 
-	Receive order confirmation after placing the order.
+* Check the total bill, which is calculated automatically by the program.
 
-	See simulated delivery status, such as preparing, picked up, and out for delivery
+* Receive order confirmation after placing the order.
+
+* See simulated delivery status, such as preparing, picked up, and out for delivery
 
 ---
 
@@ -44,3 +45,7 @@ HIGH LEVEL FEATURES:
 * Place an order
 * Calculate bill
 * Track delivery status
+
+---
+
+
