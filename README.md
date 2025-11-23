@@ -179,8 +179,8 @@ Check that the final Order Summary shows:
 
 SCREENSHORTS OF OUTPUT:
 
-<img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/d8199b2c-9c9d-4309-a843-26e7a645e74c" />
-<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/e3e629fa-5ae4-4fc8-8913-f2368966ad38" />
+<img width="740" height="436" alt="image" src="https://github.com/user-attachments/assets/d8199b2c-9c9d-4309-a843-26e7a645e74c" />
+<img width="740" height="208" alt="image" src="https://github.com/user-attachments/assets/e3e629fa-5ae4-4fc8-8913-f2368966ad38" />
 
 ---
 
