@@ -1,13 +1,17 @@
 # VITYARTHI-PROJECT
 
 ---
-PROJECT TITLE:
-ONLINE FOOD DELIVERY SYSTEM
+
+PROJECT TITLE: ONLINE FOOD DELIVERY SYSTEM
+
 ---
+
 OVERVIEW OF PROJECT:
 
 In the digital era, food delivery applications have become increasingly popular due to convenience and time-saving features. This project aims to design a simple, user-friendly console-based Food Delivery System generator using Python.
+
 ---
+
 FEATURES:
 
 The system allows users to:
@@ -16,7 +20,9 @@ The system allows users to:
 * Place an order
 * Calculate bill
 * Track delivery status
+  
 ---
+
 TECHNOLOGIES USED/TOOLS USED:
 
 Programming Language: Python 3.x
@@ -24,6 +30,8 @@ Programming Language: Python 3.x
 Libraries Used: time
 
 IDE/Environment: VS Code
+
 ---
+
 STEPS TO INSTALL AND RUN THE PROJECT:
 
